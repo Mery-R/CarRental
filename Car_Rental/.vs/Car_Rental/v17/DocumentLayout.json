@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\userstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\addemployeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\addemployeewindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\addemployeewindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\adminwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\adminwindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\employeewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|c:\\users\\mery\\desktop\\projektowanie obiektowe\\projektowe\\carrental\\car_rental\\car_rental\\employeewindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8147F5D0-BAB2-498D-BD22-598E6628C03C}|Car_Rental\\Car_Rental.csproj|solutionrelative:car_rental\\employeewindow.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Car_Rental\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\MainWindow.xaml",
+              "RelativeToolTip": "Car_Rental\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T16:39:56.792Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Car_Rental\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:05:09.2Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserStore.cs",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\UserStore.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\UserStore.cs",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\UserStore.cs",
+              "RelativeToolTip": "Car_Rental\\UserStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:47:34.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AddEmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "Car_Rental\\AddEmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AddEmployeeWindow.xaml",
+              "RelativeToolTip": "Car_Rental\\AddEmployeeWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T17:37:27.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\EmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\EmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\EmployeeWindow.xaml.cs",
+              "RelativeToolTip": "Car_Rental\\EmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:33:33.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AdminWindow.xaml",
+              "RelativeDocumentMoniker": "Car_Rental\\AdminWindow.xaml",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AdminWindow.xaml",
+              "RelativeToolTip": "Car_Rental\\AdminWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T17:33:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "Car_Rental\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:33:32.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployeeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AddEmployeeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Car_Rental\\AddEmployeeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\AddEmployeeWindow.xaml.cs",
+              "RelativeToolTip": "Car_Rental\\AddEmployeeWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T17:37:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\EmployeeWindow.xaml",
+              "RelativeDocumentMoniker": "Car_Rental\\EmployeeWindow.xaml",
+              "ToolTip": "C:\\Users\\Mery\\Desktop\\Projektowanie obiektowe\\Projektowe\\CarRental\\Car_Rental\\Car_Rental\\EmployeeWindow.xaml",
+              "RelativeToolTip": "Car_Rental\\EmployeeWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T17:33:31.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
