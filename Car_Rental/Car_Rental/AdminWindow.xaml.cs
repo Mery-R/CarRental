@@ -36,5 +36,20 @@ namespace Car_Rental
         {
             _employees[username] = password;
         }
+
+        private void ShowCarsButton_Click(object sender, RoutedEventArgs e)
+        {
+            var cars = new List<string>
+            {
+                "Toyota Corolla 2020",
+                //"Ford Focus 2019",
+                //"Volkswagen Golf 2018",
+                //"BMW 3 Series 2021"
+            };
+            this.Hide(); // Ukryj okno AdminWindow
+            var showCarsWindow = new ShowCarsWindow(cars);
+            showCarsWindow.Closed += (s, args) => this.Show(); // Po zamkniêciu okna aut poka¿ ponownie AdminWindow
+            showCarsWindow.ShowDialog();
+        }
     }
 }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Mery\Desktop\Projektowanie obiektowe\Projektowe\CarRental\Car_Rental\Car_Rental\obj\Debug\net9.0-windows\
+C:\Users\pucad\Desktop\Programowanie obiektowe\Projekt\Car_Rental\Car_Rental\obj\Debug\net9.0-windows\
 Car_Rental
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Mery\Desktop\Projektowanie obiektowe\Projektowe\CarRental\Car_Rental\Car_Rental\App.xaml
-4590745106
+C:\Users\pucad\Desktop\Programowanie obiektowe\Projekt\Car_Rental\Car_Rental\App.xaml
+51552747867
 
-71398497473
+91490684767
 200-56570838
-AddEmployeeWindow.xaml;AdminWindow.xaml;EmployeeWindow.xaml;MainWindow.xaml;
+AddEmployeeWindow.xaml;AdminWindow.xaml;EmployeeWindow.xaml;MainWindow.xaml;ShowCarsWindow.xaml;
 
 False
 

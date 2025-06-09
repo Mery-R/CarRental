@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Mery\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Mery\\.nuget\\packages",
+      "C:\\Users\\pucad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pucad\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
